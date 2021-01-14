@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #e6e6e6;
+}
+
+.banner {
+    height: 600px;
+}
+
+.carousel-item h5 {
+    font-size: 30px;
+    margin-top: -300px;
+    font-weight: bold;
+}
+
+.carousel-item p {
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: gray;
+}
+
+.ikincicerik span {
+    color: gray;
+}
+
+.deyim {
+    background-color: #efefef;
+    font-size: 50px;
+    color: #dcdcdc;
+    background-color: #f2f2f2;
+    position: relative;
+}
+
+.soz {
+    font-size: 20px;
+}
+
+h6 {
+    color: #6c6c6c;
+}
+
+.hakkinda i {
+    color: #a89574;
+}
